@@ -608,7 +608,7 @@ hr {
     font-weight: 500;
   }
   .st-nav .st-nav-list > li > a.active {
-    color: #fec544;
+    color: #00ff96;
   }
   .st-nav .sp-phone {
     display: -webkit-box;
@@ -634,7 +634,7 @@ hr {
   }
   .st-nav .sp-phone .sp-phone-no {
     padding-left: 15px;
-    color: #fec544;
+    color: #00ff96;
   }
   .st-munu-toggle,
   .st-munu-dropdown-toggle {
@@ -975,7 +975,7 @@ hr {
   margin-top: -6px;
   margin-bottom: 10px;
   font-weight: 300;
-  color: #fec544;
+  color: #00ff96;
 }
 
 .st-social-group {
@@ -1026,7 +1026,7 @@ hr {
 }
 
 .st-hero.st-style2 h1 span {
-  color: #fec544;
+  color: #00ff96;
 }
 
 .st-hero.st-style2 p {
@@ -1155,8 +1155,10 @@ canvas {
 
 /* ANIMATIONS */
 .x1 {
-  -webkit-animation: animateBubble 25s linear infinite, sideWays 2s ease-in-out infinite alternate;
-          animation: animateBubble 25s linear infinite, sideWays 2s ease-in-out infinite alternate;
+  -webkit-animation: animateBubble 25s linear infinite,
+ sideWays 2s ease-in-out infinite alternate;
+          animation: animateBubble 25s linear infinite,
+ sideWays 2s ease-in-out infinite alternate;
   left: -5%;
   top: 5%;
   -webkit-transform: scale(0.6);
@@ -1164,8 +1166,10 @@ canvas {
 }
 
 .x2 {
-  -webkit-animation: animateBubble 20s linear infinite, sideWays 4s ease-in-out infinite alternate;
-          animation: animateBubble 20s linear infinite, sideWays 4s ease-in-out infinite alternate;
+  -webkit-animation: animateBubble 20s linear infinite,
+ sideWays 4s ease-in-out infinite alternate;
+          animation: animateBubble 20s linear infinite,
+ sideWays 4s ease-in-out infinite alternate;
   left: 5%;
   top: 80%;
   -webkit-transform: scale(0.4);
@@ -1173,8 +1177,10 @@ canvas {
 }
 
 .x3 {
-  -webkit-animation: animateBubble 28s linear infinite, sideWays 2s ease-in-out infinite alternate;
-          animation: animateBubble 28s linear infinite, sideWays 2s ease-in-out infinite alternate;
+  -webkit-animation: animateBubble 28s linear infinite,
+ sideWays 2s ease-in-out infinite alternate;
+          animation: animateBubble 28s linear infinite,
+ sideWays 2s ease-in-out infinite alternate;
   left: 10%;
   top: 40%;
   -webkit-transform: scale(0.7);
@@ -1182,8 +1188,10 @@ canvas {
 }
 
 .x4 {
-  -webkit-animation: animateBubble 22s linear infinite, sideWays 3s ease-in-out infinite alternate;
-          animation: animateBubble 22s linear infinite, sideWays 3s ease-in-out infinite alternate;
+  -webkit-animation: animateBubble 22s linear infinite,
+ sideWays 3s ease-in-out infinite alternate;
+          animation: animateBubble 22s linear infinite,
+ sideWays 3s ease-in-out infinite alternate;
   left: 20%;
   top: 0;
   -webkit-transform: scale(0.3);
@@ -1191,8 +1199,10 @@ canvas {
 }
 
 .x5 {
-  -webkit-animation: animateBubble 29s linear infinite, sideWays 4s ease-in-out infinite alternate;
-          animation: animateBubble 29s linear infinite, sideWays 4s ease-in-out infinite alternate;
+  -webkit-animation: animateBubble 29s linear infinite,
+ sideWays 4s ease-in-out infinite alternate;
+          animation: animateBubble 29s linear infinite,
+ sideWays 4s ease-in-out infinite alternate;
   left: 30%;
   top: 50%;
   -webkit-transform: scale(0.5);
@@ -1200,8 +1210,10 @@ canvas {
 }
 
 .x6 {
-  -webkit-animation: animateBubble 21s linear infinite, sideWays 2s ease-in-out infinite alternate;
-          animation: animateBubble 21s linear infinite, sideWays 2s ease-in-out infinite alternate;
+  -webkit-animation: animateBubble 21s linear infinite,
+ sideWays 2s ease-in-out infinite alternate;
+          animation: animateBubble 21s linear infinite,
+ sideWays 2s ease-in-out infinite alternate;
   left: 50%;
   top: 0;
   -webkit-transform: scale(0.8);
@@ -1209,8 +1221,10 @@ canvas {
 }
 
 .x7 {
-  -webkit-animation: animateBubble 20s linear infinite, sideWays 2s ease-in-out infinite alternate;
-          animation: animateBubble 20s linear infinite, sideWays 2s ease-in-out infinite alternate;
+  -webkit-animation: animateBubble 20s linear infinite,
+ sideWays 2s ease-in-out infinite alternate;
+          animation: animateBubble 20s linear infinite,
+ sideWays 2s ease-in-out infinite alternate;
   left: 65%;
   top: 70%;
   -webkit-transform: scale(0.4);
@@ -1218,8 +1232,10 @@ canvas {
 }
 
 .x8 {
-  -webkit-animation: animateBubble 22s linear infinite, sideWays 3s ease-in-out infinite alternate;
-          animation: animateBubble 22s linear infinite, sideWays 3s ease-in-out infinite alternate;
+  -webkit-animation: animateBubble 22s linear infinite,
+ sideWays 3s ease-in-out infinite alternate;
+          animation: animateBubble 22s linear infinite,
+ sideWays 3s ease-in-out infinite alternate;
   left: 80%;
   top: 10%;
   -webkit-transform: scale(0.3);
@@ -1227,8 +1243,10 @@ canvas {
 }
 
 .x9 {
-  -webkit-animation: animateBubble 29s linear infinite, sideWays 4s ease-in-out infinite alternate;
-          animation: animateBubble 29s linear infinite, sideWays 4s ease-in-out infinite alternate;
+  -webkit-animation: animateBubble 29s linear infinite,
+ sideWays 4s ease-in-out infinite alternate;
+          animation: animateBubble 29s linear infinite,
+ sideWays 4s ease-in-out infinite alternate;
   left: 90%;
   top: 50%;
   -webkit-transform: scale(0.6);
@@ -1236,8 +1254,10 @@ canvas {
 }
 
 .x10 {
-  -webkit-animation: animateBubble 26s linear infinite, sideWays 2s ease-in-out infinite alternate;
-          animation: animateBubble 26s linear infinite, sideWays 2s ease-in-out infinite alternate;
+  -webkit-animation: animateBubble 26s linear infinite,
+ sideWays 2s ease-in-out infinite alternate;
+          animation: animateBubble 26s linear infinite,
+ sideWays 2s ease-in-out infinite alternate;
   left: 80%;
   top: 80%;
   -webkit-transform: scale(0.3);
@@ -1298,7 +1318,7 @@ canvas {
     height: 580px;
   }
   .st-hero.st-style1 .st-hero-text h1 {
-    font-size: 90px;
+    font-size: 70px;
   }
 }
 
@@ -1324,7 +1344,7 @@ canvas {
   border-radius: 50px;
   min-width: 170px;
   border: none;
-  outline: none;
+  outline: none;00ff96
   -webkit-transition: all 0.4s ease;
   transition: all 0.4s ease;
   text-transform: capitalize;
@@ -1344,18 +1364,18 @@ canvas {
 }
 
 .st-btn.st-style1.st-color1 {
-  background-color: #fec544;
+  background-color: #00ff96;
   color: #070d1b;
 }
 
 .st-btn.st-style1.st-color2 {
   background: #000;
-  color: #fff;
-}
+  color: #fff;00ff96
+}00ff96
 
 .st-btn.st-style1.st-color3 {
   background: #fff;
-  color: #222;
+  color: #222;00ff96
 }
 
 .st-btn.st-style1.st-color4 {
@@ -1370,12 +1390,12 @@ canvas {
 
 .st-btn.st-style2.st-color1 {
   background-color: transparent;
-  border-color: #fec544;
-  color: #fec544;
+  border-color: #00ff96;
+  color: #00ff96;
 }
 
 .st-btn.st-style2.st-color1:hover {
-  background-color: #fec544;
+  background-color: #00ff96;
   color: #070d1b;
 }
 
@@ -1399,7 +1419,7 @@ canvas {
 
 @media screen and (max-width: 991px) {
   .st-btn.st-style1,
-  .st-btn.st-style2 {
+  .st-btn.00ff96le2 {
     font-size: 14px;
     padding: 0.72em 1.8em;
   }
@@ -1419,8 +1439,8 @@ canvas {
   font-size: 24px;
   font-weight: 500;
   text-transform: uppercase;
-  color: #fec544;
-  position: relative;
+  color: #00ff96;
+  position: relative;00ff96
   z-index: 10;
   letter-spacing: 1px;
 }
@@ -1440,7 +1460,7 @@ canvas {
 .st-section-heading.st-style1 .st-section-heading-title::after {
   content: "";
   position: absolute;
-  background-color: #fec544;
+  background-color: #00ff96;
   width: 70px;
   height: 2px;
   bottom: -16px;
@@ -1471,7 +1491,7 @@ canvas {
 }
 
 /* End Section Heading */
-/*--------------------------------------------------------------
+/*--------00ff96------------------------------------------------
 9. About Section
 ----------------------------------------------------------------*/
 .st-about-img {
@@ -1491,7 +1511,7 @@ canvas {
 .st-text-block.st-style1 .st-text-block-subtitle {
   font-size: 24px;
   font-weight: 300;
-  color: #fec544;
+  color: #00ff96;
   margin-bottom: 18px;
 }
 
@@ -1521,15 +1541,15 @@ canvas {
   margin-left: 7px;
 }
 
-@media screen and (max-width: 991px) {
+@media screen and (max-00ff96 991px) {
   .st-about-img-wrap {
     padding-right: 0px;
   }
-}
+}00ff96
 
 /*--------------------------------------------------------------
 10. Icon box
-----------------------------------------------------------------*/
+----------00ff96------------------------------------------------*/
 .st-iconbox.st-style1 {
   text-align: center;
   padding: 50px 30px;
@@ -1541,15 +1561,15 @@ canvas {
 }
 
 .st-iconbox.st-style1:hover .st-iconbox-icon {
-  border: 0.5px solid #fec544;
+  border: 0.5px solid #00ff96;
 }
 
 .st-iconbox.st-style1:hover .st-iconbox-icon svg {
-  fill: #fec544;
+  fill: #00ff96;
 }
 
 .st-iconbox.st-style1:hover .st-iconbox-title {
-  color: #fec544;
+  color: #00ff96;
 }
 
 .st-iconbox.st-style1 .st-iconbox-icon {
@@ -1613,7 +1633,7 @@ canvas {
   display: flex;
   -webkit-box-pack: justify;
       -ms-flex-pack: justify;
-          justify-content: space-between;
+          00ff96y-content: space-between;
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
@@ -1624,7 +1644,7 @@ canvas {
 }
 
 .st-single-progressbar {
-  margin-top: -5px;
+  margin-top: -5px;00ff96
 }
 
 .st-progressbar-title {
@@ -1633,7 +1653,7 @@ canvas {
 }
 
 .st-progressbar-percentage {
-  color: #fec544;
+  color: #00ff96;
   font-weight: 400;
 }
 
@@ -1644,7 +1664,7 @@ canvas {
 }
 
 .st-progressbar-in {
-  background-color: #fec544;
+  background-color: #00ff96;
   height: 2px;
 }
 
@@ -1673,13 +1693,13 @@ canvas {
   font-weight: 400;
 }
 
-.st-resume-timeline {
+.st-resume-timeline {00ff96
   position: relative;
   padding-top: 1px;
 }
 
 .st-resume-timeline::before {
-  position: absolute;
+  position00ff96lute;
   content: "";
   border: 2px solid #232935;
   border-radius: 50%;
@@ -1693,13 +1713,13 @@ canvas {
 }
 
 .st-resume-timeline:hover::before {
-  background-color: #fec544;
+  background-color: #00ff96;
 }
 
 .st-resume-timeline .st-resume-timeline-title {
   font-size: 24px;
   font-weight: 400;
-  color: #fec544;
+  color: #00ff96;
   margin-top: -7px;
   margin-bottom: 8px;
 }
@@ -1788,7 +1808,7 @@ canvas {
           transform: translate(-50%, -50%);
   -webkit-transition: all 0.4s ease;
   transition: all 0.4s ease;
-  z-index: 5;
+  z-index: 5;00ff96
   text-align: center;
   opacity: 0;
   visibility: hidden;
@@ -1808,7 +1828,7 @@ canvas {
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
-  background: #fec544;
+  background: #00ff96;
   color: #151b29;
   font-size: 26px;
   opacity: .8;
@@ -2018,15 +2038,15 @@ canvas {
   .st-slider .pagination.st-hidden {
     display: block;
     margin-top: 20px;
-  }
+  }00ff96
   .st-slider .pagination.st-style1 ul,
   .st-slider .pagination.st-style2 ul {
     -webkit-box-pack: center;
-        -ms-flex-pack: center;
+        -ms-flex-00ff96center;
             justify-content: center;
   }
   .swipe-arrow.st-style1 {
-    display: none;
+    display: none00ff96
   }
   .st-hidden.st-hidden-md,
   .swipe-arrow.st-style2 {
@@ -2038,15 +2058,15 @@ canvas {
 24. Testimonial
 ----------------------------------------------------------------*/
 .st-testimonial.st-style1:hover .st-testimonial-name {
-  color: #fec544;
+  color: #00ff96;
 }
 
 .st-testimonial.st-style1:hover .st-testimonial-text {
-  border-color: #fec544;
+  border-color: #00ff96;
 }
 
 .st-testimonial.st-style1:hover .st-testimonial-text::after {
-  border-color: #fec544;
+  border-color: #00ff96;
 }
 
 .st-testimonial.st-style1 .st-testimonial-text {
@@ -2133,7 +2153,7 @@ canvas {
 ----------------------------------------------------------------*/
 .st-post-single.st-style1 .st-post-thumb {
   display: block;
-  overflow: hidden;
+  overflow00ff96en;
 }
 
 .st-post-single.st-style1 .st-post-thumb img {
@@ -2148,12 +2168,12 @@ canvas {
 
 .st-post-single.st-style1 .st-post-date .st-post-date-divider {
   margin-left: 4px;
-  margin-right: 4px;
+  margin-r00ff964px;
 }
 
 .st-post-single.st-style1 .st-post-date .st-post-author,
 .st-post-single.st-style1 .st-post-date .st-post-publish-date {
-  color: #fec544;
+  color: #00ff96;
 }
 
 .st-post-single.st-style1 .st-post-date .st-post-author:hover {
@@ -2168,7 +2188,7 @@ canvas {
 }
 
 .st-post-single.st-style1 .st-post-title:hover {
-  color: #fec544;
+  color: #00ff96;
 }
 
 /*--------------------------------------------------------------
@@ -2281,7 +2301,7 @@ canvas {
   height: 1px;
   width: 1000px;
 }
-
+00ff96
 .st-widget-list {
   padding: 0;
   margin: 0;
@@ -2300,8 +2320,8 @@ canvas {
   padding: 10px 0;
 }
 
-.st-widget-list a:hover {
-  color: #fec544;
+.st-widget-list a:hov00ff96
+  color: #00ff96;00ff96
 }
 
 .st-tagcloud {
@@ -2320,8 +2340,8 @@ canvas {
 
 .st-tagcloud .st-tag:hover {
   color: #fff;
-  background-color: #fec544;
-  border-color: #fec544;
+  background-color: #00ff96;
+  border-color: #00ff96;
 }
 
 .st-sidebar-social-btn {
@@ -2350,8 +2370,8 @@ canvas {
 .st-post-details.st-style1 .slick-slide {
   line-height: 0;
 }
-
-.st-post-details.st-style1 .st-post-thumb {
+00ff96
+.st-post-d00ff96.st-style1 .st-post-thumb {
   margin-bottom: 25px;
 }
 
@@ -2367,11 +2387,11 @@ canvas {
 .st-post-details.st-style1 blockquote {
   background-color: rgba(255, 255, 255, 0.02);
   margin: 0;
-  padding: 30px 40px 27px;
+  padding:00ff9640px 27px;
   font-size: 24px;
   line-height: 1.6em;
-  border-left: 5px solid #fec544;
-  color: #fec544;
+  border-left: 5px solid #00ff96;
+  color: #00ff96;
   border-radius: 7px;
   font-weight: 400;
   margin: 20px 0;
@@ -2387,7 +2407,7 @@ canvas {
 }
 
 .st-post-details.st-style1 blockquote small span {
-  color: #fec544;
+  color: #00ff96;
 }
 
 .st-post-details.st-style1 .st-post-label {
@@ -2433,7 +2453,7 @@ canvas {
 }
 
 .st-post-label > span {
-  display: inline-block;
+  display:00ff96e-block;
   position: relative;
 }
 
@@ -2453,9 +2473,9 @@ canvas {
 }
 
 .st-post-label a:hover {
-  color: #fec544;
+  color: #00ff96;
 }
-
+00ff96
 .st-post-tage-list {
   display: -webkit-box;
   display: -ms-flexbox;
@@ -2475,7 +2495,7 @@ canvas {
 }
 
 .st-post-tage-list li a:hover {
-  color: #fec544;
+  color: #00ff96;
 }
 
 .st-post-tages,
@@ -2490,7 +2510,7 @@ canvas {
 .st-post-share .st-post-tage-title,
 .st-post-share .st-post-share-title {
   margin: 0;
-  font-size: 16px;
+  font-siz00ff96x;
   margin-right: 10px;
   line-height: 1.6em;
   font-weight: 500;
@@ -2510,7 +2530,7 @@ canvas {
 }
 
 .st-post-share-btn-list a:hover {
-  color: #fec544;
+  color: #00ff96;
 }
 
 .st-post-btn-gropu {
@@ -2627,7 +2647,7 @@ canvas {
   padding-left: 0;
 }
 
-.comments-area .children .children {
+.comments-00ff96children .children {
   padding-left: 0px;
 }
 
@@ -2639,7 +2659,7 @@ canvas {
   left: -60px;
   border-radius: 6px;
 }
-
+00ff96
 .comment-author {
   margin-bottom: -6px;
 }
@@ -2647,7 +2667,7 @@ canvas {
 .comment-author .nm,
 .comment-author .nm a {
   font-weight: 500;
-  color: #fec544;
+  color: #00ff96;
   font-size: 14px;
   display: block;
 }
@@ -2659,10 +2679,10 @@ canvas {
 .comment-author .nm a:hover,
 .comment-author .nm:hover,
 .comment-metadata a:hover {
-  color: #fec544;
+  color: #00ff96;
 }
 
-.comment-metadata a {
+.comment-m00ff96a a {
   color: #fdfeff;
   font-weight: 400;
   font-size: 13px;
@@ -2682,7 +2702,7 @@ canvas {
 
 .comment-reply-link {
   font-size: 14px;
-  color: #fec544;
+  color: #00ff96;
   position: relative;
 }
 
@@ -2750,7 +2770,7 @@ canvas {
 }
 
 .comment-form p {
-  margin: 0;
+  margin: 0;00ff96
 }
 
 .comment-form textarea,
@@ -2770,7 +2790,7 @@ canvas {
 .comment-form textarea:focus,
 .comment-form input:focus {
   outline: none;
-  border-color: #fec544;
+  border-color: #00ff96;
 }
 
 .post-navigation {
@@ -2845,7 +2865,7 @@ canvas {
 
 .st-form-field input::-webkit-input-placeholder,
 .st-form-field textarea::-webkit-input-placeholder {
-  color: #3f4551;
+  color: #3f4551;00ff96
 }
 
 .st-form-field input:-ms-input-placeholder,
@@ -2865,11 +2885,11 @@ canvas {
 
 .st-form-field input:focus,
 .st-form-field textarea:focus {
-  border-color: #fec544;
+  border-color: #00ff96;
   outline: 0;
 }
 
-.st-form-field textarea {
+.st-form-field te00ff96 {
   height: 150px;
 }
 
@@ -2889,7 +2909,7 @@ canvas {
 }
 
 .st-single-contact-info:hover i {
-  border-color: #fec544;
+  border-color: #00ff96;
 }
 
 .st-single-contact-info i {
@@ -2905,7 +2925,7 @@ canvas {
   border: 0.5px solid #3f4551;
   border-radius: 50%;
   background-color: #070d1b;
-  width: 50px;
+  width: 500ff96
   height: 50px;
   margin-right: 20px;
   -webkit-transition: all 0.4s ease;
@@ -2925,7 +2945,7 @@ canvas {
 }
 
 .st-single-info-details a:hover {
-  color: #fec544;
+  color: #00ff96;
 }
 
 .st-single-info-details a:last-child {
